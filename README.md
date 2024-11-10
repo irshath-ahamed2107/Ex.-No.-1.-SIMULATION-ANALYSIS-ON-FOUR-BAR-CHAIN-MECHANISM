@@ -32,7 +32,7 @@
 ###   Let us construct the velocity diagram taking a scale: 
 ###   0.3141 m/s = 60 mm (say) 
 ###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
+###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction)
 ###   3. From b, draw vector bc perpendicular to BC
 ###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
 
@@ -54,8 +54,13 @@
 
 ## Output:
 
-![mechanalyzer 1](https://github.com/user-attachments/assets/c1c14d8d-4a8b-4b05-abc7-ed47bea972fe)
-![Mechanalyzer  2](https://github.com/user-attachments/assets/14a0a679-b30d-4b81-a37c-9f21b0fb9c61)
+![mechanalyzer 1](https://github.com/user-attachments/assets/c5f3eb0d-b473-4dd0-8986-2fc635b949a0)
+![Mechanalyzer  2](https://github.com/user-attachments/assets/c0dc1d2d-b5ce-4b56-a3fa-baa6903e2861)
+
+
+
+
+
 
 
 
